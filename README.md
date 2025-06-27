@@ -1,4 +1,4 @@
-🤖 Laboratório: Azure OpenAI – Filtros de Conteúdo e Criação Assistida
+## 🤖 Laboratório: Azure OpenAI – Filtros de Conteúdo e Criação Assistida
 
 **Objetivo:** Explorar as funcionalidades do Azure OpenAI e Copilot, com foco nos filtros de conteúdo e nos recursos de criação assistida por inteligência artificial.
 
